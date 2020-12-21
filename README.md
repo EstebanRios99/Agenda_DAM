@@ -14,4 +14,4 @@ platforms -> Las paltaformas para las que va dirirgido el proyecto.
 
 Existe un informe que detalla todos los complementos utilizados para le desarrollo de la aplicación móvil, lo reslacionado a los resultados y herrmaierntas necesarias para generar el APK respectivo..
 
-Además, cuenta con un video explicativo del funcionamiento de la aplicacion que se encuentra en el siguiente enlace a Youtube: 
+Además, cuenta con un video explicativo del funcionamiento de la aplicacion que se encuentra en el siguiente enlace a Youtube: https://youtu.be/hS0T810Qu9w
